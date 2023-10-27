@@ -1,0 +1,15 @@
+﻿AssetClass,SubClass,Ticker,Name,Ratio,Rep
+Stock,US_SNP,SPY,SPDR S&P 500 ETF Trust,0.108,O
+Stock,US_Nasdaq,QQQ,Invesco QQQ Trust,0.108,
+Stock,US_Russell,IWM,iShares Russell 2000 ETF,0.108,
+Stock,Developed,VEA,Vanguard FTSE Developed Markets ETF,0.108,
+Stock,Emerging,VWO,Vanguard FTSE Emerging Markets ETF,0.108,
+Bond,TotalBond,BND,Vanguard Total Bond Market ETF,0.066,
+Bond,USGovLong,TLT,iShares 20+ Year Treasury Bond ETF ,0.066,O
+Bond,USGovMid,IEF,iShares 7-10 Year Treasury Bond ETF,0.066,
+Bond,USTips,TIP,iShares TIPS Bond ETF ,0.066,
+Bond,USCorp,LQD,US Corporate Bonds,0.066,
+Bond,US,EMB,iShares J.P. Morgan USD Emerging Markets Bond ETF,0.066,
+AI,Gold,GLD,SPDR Gold Shares,0.02,O
+AI,Commodity,GSG,iShares S&P GSCI Commodity-Indexed Trust,0.02,
+AI,REITS_US,VNQ,Vanguard Real Estate ETF ,0.02,
